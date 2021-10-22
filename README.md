@@ -11,8 +11,8 @@
   <li><b>🤔 Future learning goals: </b>Automating tasks with the OpenCV framework and Python</li>
 </ul>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=libaration&hide=issues&show_icons=true&theme=dark)](https://github.com/libaration/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libaration&layout=compact&theme=dark)](https://github.com/libaration/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=libaration&hide=issues&show_icons=true&theme=dark)](https://github.com/Libaration?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libaration&layout=compact&theme=dark)](https://github.com/Libaration?tab=repositories)
 
 
 
