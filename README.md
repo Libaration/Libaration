@@ -7,6 +7,7 @@
   <li>🌱 <b>I’m currently learning:</b> Reverse engineering assembly with ollydbg and Tailwind </li>
   <li>👯 <b>I’m looking to collaborate on:</b> Literally anything! Please don't hesitate to message me about any projects big or small. I love programming! </li>
   <li>🔭 <b>I’m currently working on: </b>A Cryptocurrency Tracker / Converter dashboard in Typescript</li>
+  <li><b>🤔 Future learning goals: </b>Automating tasks with the OpenCV framework and Python</li>
 </ul>
 
 <!--
