@@ -2,6 +2,7 @@
 
 <h1 align='center'> Hi there 👋 </h1>
 <p align='center'> I'm Cristian Deleon a Web Developer, Designer & Creator</p>
+<p align='center'> I started coding in middle school using Visual Basic 6. I was mostly creating hex/memory editors and packet loggers for online games in C# and VB6. I've made the switch to Web Development and couldn't be happier. I love Front End design and working closely with customer facing UI. I graduated from Flatiron bootcamp where I really got to put everything together and dive into the full stack! I've worked extensively with Rails on backends for it's simplicity and opinionated code, and React/Redux for it's reusability on the frontend, I'm a passionate coder and pride myself in learning new concepts quickly!</p>
 <ul>
   <li>📫 <b>How to reach me:</b> Shoot me an email at <i>libaration@gmail.com</i> or Discord at <i>HateCristian#9352</i></li>
   <li>🌱 <b>I’m currently learning:</b> Reverse engineering assembly with ollydbg and Tailwind </li>
@@ -9,6 +10,16 @@
   <li>🔭 <b>I’m currently working on: </b>A Cryptocurrency Tracker / Converter dashboard in Typescript</li>
   <li><b>🤔 Future learning goals: </b>Automating tasks with the OpenCV framework and Python</li>
 </ul>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=libaration&hide=issues&show_icons=true&theme=dark)](https://github.com/libaration/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libaration&layout=compact&theme=dark)](https://github.com/libaration/github-readme-stats)
+
+
+
+  
+  
+  
+
 
 <!--
 **Libaration/Libaration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
